@@ -3,6 +3,7 @@
 ------------------------------------------------------------------------------------------------------------------
 This is a E-commerce Front End website
 #link :https://delightful-meadow-07dd20d10.2.azurestaticapps.net/ https://delightful-meadow-07dd20d10.2.azurestaticapps.net/
+
 Web Technologies used: HTML, CSS, JavaScript
 
 IDE: VS-Code
